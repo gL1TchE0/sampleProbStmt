@@ -1,0 +1,6 @@
+Level: L1, Passed tests: 2, Total tests: 2
+	File C:\Study Material\Infineon\GettingStarted_Amrita\GettingStarted\outputs\L1\t1_output.txt matches the golden file.
+	File C:\Study Material\Infineon\GettingStarted_Amrita\GettingStarted\outputs\L1\t2_output.txt matches the golden file.
+Level: L2, Passed tests: 1, Total tests: 2
+	File C:\Study Material\Infineon\GettingStarted_Amrita\GettingStarted\outputs\L2\t1_output.txt matches the golden file.
+	Mismatch found in file: C:\Study Material\Infineon\GettingStarted_Amrita\GettingStarted\outputs\L2\t2_output.txt
