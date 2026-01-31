@@ -37,7 +37,7 @@ def simulate(troops, ships):
             impossible.add(sid)
 
     time = 0
-    active = {} 
+    active = {}
     max_deadline = max(s["deadline"] for s in ships.values())
 
     while time < max_deadline:
